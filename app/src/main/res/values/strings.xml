@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moddie</string>
+    <string name="themoviedb_api_key">f34023a4405816ebb1a7d2fa9e02063e</string>
+    <string name="facebook_app_id">1107514296029429</string>
+    <string name="current_city">zagreb</string>
+
+</resources>
